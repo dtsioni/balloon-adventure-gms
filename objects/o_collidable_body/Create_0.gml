@@ -1,3 +1,5 @@
+event_inherited();
+
 fixture = physics_fixture_create();
 
 physics_fixture_set_density(fixture, b_density);

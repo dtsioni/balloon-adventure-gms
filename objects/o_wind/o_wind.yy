@@ -5,16 +5,6 @@
     "name": "o_wind",
     "eventList": [
         {
-            "id": "41aad95f-9566-4f18-9117-e31342ea712e",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "4d03435d-4fae-43d3-af00-9833808fc6ef"
-        },
-        {
             "id": "4b853944-3df4-4c4f-9d3b-f744c4a380ab",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -37,7 +27,7 @@
     ],
     "maskSpriteId": "81083c45-a2a4-4fef-9139-b46ea15d5751",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "d80f590d-1a60-43ea-92d5-e3a218f4c362",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
