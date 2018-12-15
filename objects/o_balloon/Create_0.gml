@@ -1,11 +1,11 @@
-b_friction = 0;
+b_friction = 0.1;
 b_density = 0.05;
 b_linear_damping = 0.0;
-b_angular_damping = 0;
-b_restitution = 0.0;
+b_angular_damping = 0.5;
+b_restitution = 0.1;
 
 shape_radius = 32;
-
+ 
 size_sprite = spr_balloon_mask;
 image_sprite = spr_balloon;
 
